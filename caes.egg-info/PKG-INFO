@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: caes
+Version: 0.0.6
+Summary: Thermodynamic performance of compressed air energy storage (CAES) systems
+Home-page: https://github.com/EnergyModels/caes
+Author: Jeff Bennett
+Author-email: jab6ft@virginia.edu
+License: MIT
+License-File: LICENSE

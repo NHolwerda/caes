@@ -1,4 +1,11 @@
-from caes import ICAES, plot_series
+import os
+
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
+
+
+from caes import ICAES
+from caes.plot_functions import plot_series
 import matplotlib.pyplot as plt
 
 # create system

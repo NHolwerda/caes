@@ -1,0 +1,7 @@
+CoolProp
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+joblib
